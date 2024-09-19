@@ -1,6 +1,6 @@
 # Work-Hours Calculator
 
-This is a simple work-hours calculator created because the app we are required to use, Oplus, is not reliable and cannot accurately track working hours.
+This is a simple work-hours calculator created because the app we are required to use, Oplus, is not useful.
 
 ## How to Run
 
