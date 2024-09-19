@@ -10,5 +10,5 @@ To run the calculator, use the following command:
 python3 ./culculator.py
 ```
 
-## demo
-- `![Demo img of Work-Hours Calculator](./img/demo_img.png)`
+## img
+![demo_img](https://github.com/user-attachments/assets/03e4d3af-b62b-4f20-8235-b1a73c8063f2)
